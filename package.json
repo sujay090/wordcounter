@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "wordcounter-maxi",
+  "version": "1.0.4",
+  "description": "simple counting word in your text file",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "bin": {
+    "word-max": "./app.js"
+  },
+  "author": "max",
+  "license": "ISC"
+}
